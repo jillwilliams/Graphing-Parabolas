@@ -13,14 +13,14 @@ h1 {
 #p1 {
     text-align: center;
 }
-#pic1, #pic2, #pic4, #pic5, #pic6, #pic8 {
+#pic1, #pic2, #pic4, #pic5, #pic6, #pic8, #pic9, #pic11 {
     width: 40%;
     height: auto;
     margin: 15px 30% 15px 30%;
     border: 2px black solid;
     outline: 1px orange solid;
 }
-#pic3, #pic7 {
+#pic3, #pic7, #pic10 {
     width: 40%;
     height: auto;
     margin: 15px 30% 15px 30%;
@@ -28,7 +28,9 @@ h1 {
     outline: 1px orange solid;
 }
 iframe {
-    margin: 15px 34% 15px 34%;
+    width: 80%;
+    height: 400px;
+    margin: 15px 10% 15px 10%;
     border: 2px black solid;
     outline: 1px orange solid;
 }
