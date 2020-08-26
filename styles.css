@@ -28,9 +28,9 @@ h1 {
     outline: 1px orange solid;
 }
 iframe {
-    width: 80%;
+    width: 600px;
     height: 400px;
-    margin: 15px 10% 15px 10%;
+    margin: 15px 33% 15px 33%;
     border: 2px black solid;
     outline: 1px orange solid;
 }
